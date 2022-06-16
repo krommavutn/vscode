@@ -6,12 +6,9 @@ if n == 10:
 else:
     print('n is something else except 10')
     print('kromma edite')
-    n = int(input())
-    total = 0
-    i = 1
-        while i <= n:
-            total = total + i
-            i = i + 1
-        print(total)
+count = 1
+while count <= 8:
+     print('I like Bossanova')
+     count = count + 1
 
 
