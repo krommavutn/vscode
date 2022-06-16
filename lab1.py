@@ -17,3 +17,8 @@ elif level == '4':
     print('Expert')
 else:
     print('Invalid level selected')
+#////////////////////////////////
+count = 1
+while count <= 8:
+     print('I like RmutSB Sci')
+     count = count + 1
